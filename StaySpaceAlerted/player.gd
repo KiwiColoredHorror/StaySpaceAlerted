@@ -9,7 +9,7 @@ var interact = false
 var menu = false
 
 const SPEED = 1
-const GRID = 16
+const GRID = 8
 
 var world
 
